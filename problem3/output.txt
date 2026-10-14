@@ -1,0 +1,3 @@
+Deleting file: myfile_1.txt
+Deleting file: program_v1.01
+Deleting file: script3.sh
